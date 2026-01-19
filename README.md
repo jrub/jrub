@@ -12,7 +12,7 @@ I teach, speak at conferences, and organize tech communities. Known for champion
 
 ## Speaking
 
-I regularly speak at tech conferences about product strategy, developer experience, AI, and organizational culture:
+I regularly speak at tech conferences:
 
 - **[Documenting APIs](https://www.youtube.com/watch?v=IHIsuIlSiio)** · Software Crafters Barcelona, 2025
 - **[AI in support teams](https://www.youtube.com/watch?v=HsPIX0tNlO8)** · Software Crafters Barcelona, 2024
