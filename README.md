@@ -12,7 +12,7 @@ I teach, speak at conferences, and organize tech communities. Known for champion
 
 ## Speaking
 
-I regularly speak at tech conferences:
+I regularly speak at corporate events and tech conferences:
 
 - **[Documenting APIs](https://www.youtube.com/watch?v=IHIsuIlSiio)** · Software Crafters Barcelona, 2025
 - **[AI in support teams](https://www.youtube.com/watch?v=HsPIX0tNlO8)** · Software Crafters Barcelona, 2024
@@ -34,8 +34,9 @@ I regularly speak at tech conferences:
 
 ## Let's talk
 
-Open to collaborations with organizations rethinking their approach to AI, product strategy, or work culture.
+Open to conversations and collaborations on AI strategy, product thinking, or work culture. Available for speaking, workshops, and advisory work.
 
+- **Schedule a call:** [timetime.in/rp/javier](https://app.timetime.in/rp/javier)
 - **Email:** jrubr@duck.com
 - **LinkedIn:** [linkedin.com/in/javi-rubio](https://linkedin.com/in/javi-rubio)
 - **#NoMeetings:** [nomeetings.work](https://nomeetings.work)
