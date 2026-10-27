@@ -1,4 +1,4 @@
-# Javi Rubio · Software Engineer, Technical Writer & Engineering Leader
+# Javi Rubio </br> Software Engineer, Technical Writer and Engineering Leader
 
 > _20 years at the intersection of engineering, product and knowledge management_
 
